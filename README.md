@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 International student @ sjsu | Software engineer '23 | IBM Accelerate '21
 Know React, MaterialUI, Nodejs and SpringBoot
 Learing Docker
+🔭 I’m currently working on ...  
 Thanks for stopping by
