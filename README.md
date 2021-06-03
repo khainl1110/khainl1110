@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+International student @ sjsu | Software engineer '23 | IBM Accelerate '21
+Know React, MaterialUI, Nodejs and SpringBoot
+Learing Docker
+Thanks for stopping by
