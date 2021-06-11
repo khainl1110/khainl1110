@@ -19,7 +19,7 @@ International student @ sjsu | Software engineer '23 | IBM Accelerate '21
     In addition, I know how to organize code, files in order to enhance readability and maintenance  
 🔭 I’m currently working on React website built using MaterialUI https://khainl1110.github.io/react-learn/  
     Implementing monolithic server for software engineering club website https://github.com/SCE-Development/Core-v4/tree/khai/tags  
-    Learning Docker, DockerCompose and deployment side of things, will have a repo soon  
+    Learning Docker, DockerCompose and deployment side of things https://github.com/khainl1110/docker-react  
     Also spend sometimes to enhance my data structure skill, I solved various problems on leetcode, hackerrank  
 📙 The repo is for saving some of my algorithm work https://github.com/khainl1110/crackingTheCodeBook  
 🌱 I’m currently learning Docker, Github Action and plan to learn Redux  
